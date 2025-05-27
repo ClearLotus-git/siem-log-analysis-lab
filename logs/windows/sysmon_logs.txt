@@ -1,0 +1,4 @@
+<13>1 2025-05-27T08:32:00Z WIN-FAKEHOST Sysmon - PowerShell.exe executed with EncodedCommand: powershell.exe -EncodedCommand SQBFAFgARQB...
+<13>1 2025-05-27T08:33:05Z WIN-FAKEHOST Sysmon - reg.exe modified Run key: HKCU\Software\Microsoft\Windows\CurrentVersion\Run
+<13>1 2025-05-27T08:35:12Z WIN-FAKEHOST Sysmon - New process created: cmd.exe /c net user attacker P@ssw0rd /add
+<13>1 2025-05-27T08:40:22Z WIN-FAKEHOST Sysmon - Network connection from 192.168.1.105 to 10.0.0.5:445 (SMB)

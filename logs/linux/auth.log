@@ -1,0 +1,4 @@
+May 27 08:00:01 ubuntu sshd[1212]: Failed password for invalid user admin from 192.168.1.100 port 22 ssh2
+May 27 08:01:05 ubuntu sudo: pam_unix(sudo:session): session opened for user root by user(uid=1000)
+May 27 08:05:12 ubuntu sshd[1225]: Accepted password for user michael from 192.168.1.150 port 22 ssh2
+May 27 08:06:00 ubuntu sshd[1230]: Failed password for user root from 192.168.1.120 port 22 ssh2

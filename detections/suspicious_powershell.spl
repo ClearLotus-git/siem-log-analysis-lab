@@ -1,0 +1,4 @@
+index=windows_logs sourcetype=sysmon process_name=powershell.exe
+| search CommandLine="*EncodedCommand*"
+| stats count by user, CommandLine
+| sort -count
