@@ -62,4 +62,4 @@ siem-log-analysis-lab/
 ## Author
 
 Nicholas D'Acri  
-Cybersecurity Research | SOC & Threat Detection | Python & Splunk
+Cybersecurity Researcher | SOC & Threat Detection | Python & Splunk
