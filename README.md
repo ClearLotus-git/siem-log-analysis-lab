@@ -1,6 +1,7 @@
 # SIEM Log Analysis Lab (Mini-SOC Simulator) 
 
-A hands-on Security Operations Center (SOC) simulation project to practice log analysis, threat detection, and incident response.
+A hands-on Security Operations Center (SOC) simulation project to practice log analysis, threat detection, and incident response that I did a while ago in class. 
+It may be outdated or not contain complete work since I recovered it.
 
 ---
 
